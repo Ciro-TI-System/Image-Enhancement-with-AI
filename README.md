@@ -13,7 +13,7 @@ Desenvolvimento de um componente de antes e depois de uma plataforma de melhoria
 <br>
 
 <p align="center">
-  <img src=".github/Image Enhancement.jpg" width="100%">
+  <img src=".github/Image Enhancement.jpg" width="50%">
 </p>
 
 <br>
@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 ## DEMO
+
+https://github.com/Ciro-TI-System/Image-Enhancement-with-AI/assets/78507494/3dbe284d-78e9-429b-9d76-97e94e2ef5e9
 
 ## 🔖 Layout
 
